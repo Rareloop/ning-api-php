@@ -1,0 +1,9 @@
+{
+	"name": "ning/ning-api-php",
+	
+	"autoload": {
+    "classmap": [
+       "src/NingApi.php"
+    ]
+  }
+}
