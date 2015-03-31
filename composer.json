@@ -3,7 +3,8 @@
 	
 	"autoload": {
     "classmap": [
-       "src/NingApi.php"
+       "src/NingApi.php",
+       "src/NingUpload.php"
     ]
   }
 }
